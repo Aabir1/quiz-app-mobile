@@ -1,0 +1,21 @@
+const colors = {
+  blue1: "#4359E8",
+  blue2: "#2A7BF0",
+  blue3: "#17ADFD",
+  blue4: "#17ADFD",
+  white: "white",
+  pink: "#F569E6",
+  blueH1: "#3569EA",
+  blueH2: "#405BE8",
+  red1: "#E6558E",
+  red2: "#E66275",
+  red3: "#DE6D5D",
+  red4: "#E57758",
+  grey1: "#636768",
+  green1: "#ECD10A",
+  green2: "#059A5D",
+  purple1: "#9077C5",
+  purple2: "#BD91D2",
+  purple3: "#F4ADE3",
+};
+export default colors;
